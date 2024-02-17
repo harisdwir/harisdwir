@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @harisdwir
 - 👀 I’m interested in cloud computing, relational database, and data science
-- 🌱 I’m currently learning AWS, R, and Python
+- 🌱 I’m currently learning AWS, R, SQL and Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: He/Him
